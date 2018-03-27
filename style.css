@@ -1,0 +1,65 @@
+/*.btn-success {
+	background-color: orange;
+	color: white;
+
+}
+
+.img-wrapper{
+	position: relative;
+	width: 100%;
+
+}
+
+.img-overlay {
+	position: relative;
+	top:0;
+	bottom: 50;
+	left: 50;
+	right: 50;
+	text-align: center;
+}
+
+*/
+p {
+  width: 100%;
+  overflow:visible;
+  padding: 0;
+  margin: 0;
+  top: 35%;
+  left: 0%;
+  position: absolute;
+  color: white;
+  margin-left:125px;
+  font-size: 25px;
+  padding-bottom:40px;
+  text-align: center;
+}
+
+.withimg {
+  width: 100%;
+  overflow:hidden;
+  padding: 0px;
+  margin: 0px;
+ }
+
+ #discover{
+  position: relative;  
+ }
+
+ #bttnimg{
+float: left;
+position: absolute;
+left: 55%;
+top: 60%;
+max-width: 750px;
+
+ }
+
+ .btn-success {
+
+ 	background-color: #FF7F50;
+ 	color: white;
+ 	border: 1px solid #FF7F50 ;
+ 	border-radius: 20px;
+ 	
+ }
