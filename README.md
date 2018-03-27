@@ -1,1 +1,1 @@
-# sampleBootstrapApp
+# bootstrapSampleApp
